@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "vip-base")(type "KiCad")(uri "${KIPRJMOD}/vip-base.pretty")(options "")(descr ""))
+)
